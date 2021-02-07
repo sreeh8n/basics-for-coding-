@@ -1,0 +1,62 @@
+if else:
+if (condition)
+{
+  print(and some thing 
+}
+else
+{
+
+}
+
+simple if (condition)
+{
+}
+
+elif ladder:
+if ()
+{
+}
+elif()
+{
+}
+else
+{
+}
+
+
+break we need to keep in loop only 
+for(i=0;i<5;i++)
+(
+condition;
+break;to stop the looping  
+continue;to skip the condition for particular value r thing 
+)
+
+while(i<5)
+{
+}
+
+
+functions:
+function_name(paramenters values)
+void main()
+{
+//calling function.
+return type function_name(vaiables)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
