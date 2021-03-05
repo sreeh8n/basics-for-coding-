@@ -1,3 +1,5 @@
+Procedural/ Functional programming languages:
+
 1) variables are used to store values in them
 
 2) conditional statement:
