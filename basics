@@ -37,13 +37,45 @@ while(i<5)
 }
 
 
+
 functions:
 function_name(paramenters values)
+
+
+// functions are defined outside main
+
+// big problem is divided into smaller managable parts
+
+// functions help us to divide a problem into smaller manageable parts
+
+// functions are of 4 types
+
+// with return [when ever a function needs to give out something]: 
+// with argument [when ever you want to give something to a function]:
+// with return and argument 
+// without return and without argument
+
+
+// function definition
+datatype function_name(paramenters values)
+ex: int finder(int array[])
+    {
+        code....
+
+        return 0;
+    }
+
 void main()
 {
 //calling function.
 return type function_name(vaiables)
+
+  // calling function.
+  return type function_name(vaiables);
+
 }
+
+
 
 
 
