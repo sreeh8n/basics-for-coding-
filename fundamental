@@ -1,9 +1,46 @@
-variables= it help to store the values.
-conditional statement= 
-if=if and condition is ture then the output print from the if other wise it will print from the else condition. 
-for loop= to do the repeation work with different values is know as for loop
-while loop= if the condition is ture it will execute otherwisde it will not,,
-fucntion = which is doing some work.
-function with agurments==the work is doing with a particular object
-function with return value==after doing work show thge output is know as return 
-function with agurment and with return values==doing the work with a particular thing and show the output by the return 
+1) variables are used to store values in them
+
+2) conditional statement:
+
+    IF-else:
+    if a condition is true then the code within the if block will executed other wise code in the else block will be executed
+    
+    ELSE IF LADDER:
+    else if ladder is used when we have more than two possibilites or two choices.
+   
+3) Loops: loops are used when we need to execute same piece of code again and again
+
+
+    For loop: for loops are used when you exactly know how many iterations or repitions must be done of same code
+    ex: If you exactly know 5 members will be coming to party and you need to shake hands with them
+    
+    syntax: for(i = 0; i < n; i++)
+            {
+                code
+            }
+    
+    While loop: while loops are used when we need to execute a code till a condition becomes true
+    ex: If you need to shake hands with your friends but you don't know how many of them are then use you while loop
+    
+    syntax: while(friends != 0)
+            {
+               code
+            }
+            
+            
+4) Functions: 
+
+    Functions are used to split up the problem into pieces
+    
+    Functions help us to divide the code into individual parts
+    
+    Then they are executed individually
+    
+    Functions can also be used to execute a piece of code again and again without needing to write it again and again
+    
+    Functions are of 4 types:
+    
+      1) functions with return value: These are used when you want to get the output of a function to the main function
+      2) functions with parameter: These are used when you want to insert something from main function to the function
+      3) functions with return and parameter: These are used when you want to do both the inserting and receiving data to and from the function
+      4) functions without return and without paramter: These are used when you don't want to insert or receive any data from a function
