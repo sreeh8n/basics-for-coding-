@@ -1,4 +1,6 @@
-Procedural/ Functional programming languages:
+Procedural/ Functional programming languages: Procedural or functional programming languages are the languages which have
+ability to create and execute code in the form of functions
+ex: C
 
 1) variables are used to store values in them
 
@@ -46,3 +48,6 @@ Procedural/ Functional programming languages:
       2) functions with parameter: These are used when you want to insert something from main function to the function
       3) functions with return and parameter: These are used when you want to do both the inserting and receiving data to and from the function
       4) functions without return and without paramter: These are used when you don't want to insert or receive any data from a function
+
+Object Oriented Programming: Object Oriented programming is the programming paradigm [type of programming] in which all the code
+is in the form a object. Object is a real world thing which has its information and functions about it.
